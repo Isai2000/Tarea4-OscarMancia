@@ -1,0 +1,15 @@
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\bin\Debug\Tarea4-OscarMancia.exe.config
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\bin\Debug\Tarea4-OscarMancia.exe
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\bin\Debug\Tarea4-OscarMancia.pdb
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4-OscarMancia.csprojAssemblyReference.cache
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4_OscarMancia.Formularios.FrmMenu.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4_OscarMancia.Properties.Resources.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4-OscarMancia.csproj.GenerateResource.cache
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4-OscarMancia.csproj.CoreCompileInputs.cache
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4-OscarMancia.exe
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4-OscarMancia.pdb
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4_OscarMancia.Formularios.FrmSalario.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4_OscarMancia.Formularios.FrmPrestamo.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4_OscarMancia.Formularios.FrmAumentoSal.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4_OscarMancia.Formularios.FrmCompu.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea4-OscarMancia\obj\Debug\Tarea4_OscarMancia.Formularios.FrmEmpleado.resources
